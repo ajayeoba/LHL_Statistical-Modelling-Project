@@ -1,7 +1,7 @@
 # Final-Project-Statistical-Modelling-with-Python
 
 ## Project/Goals
-(fill in your description and goals here)
+The Goal of get statistical data using API requests. And use the result to build a statistical model to get insite on the relationship between the number of available bikes in a bike station and the average distance between the bike station and restaurants
 
 ## Process
 Step 1: Understand the API data using the API documentation and sample results
@@ -34,16 +34,18 @@ Alternative Hypothesis (H1): The number of available bikes at a specific locatio
 
 
 Pvalue: the value of p-values is greater than 0.05. This implies that there is insufficient evidence to reject the null hypothesis. This implies that the average distance of restaurants from bikestation might not significantly influence the number of available bikes in that bike station
+
 ## Challenges 
 API request limit on the YELP API gave a challenge when i got the request failed due to Yelp API.
 
 
 
 ## Future Goals
-With unlimited API request, I will be able to explore multiple features and point-of-interest. Explore other location and compare correlation base on city
+1. With unlimited API request, I will be able to explore multiple features and point-of-interest. Explore other location and compare correlation base on city
+2.  Explore other regression techniques
 
 
-Explore other regression techniques
+
 
 
 

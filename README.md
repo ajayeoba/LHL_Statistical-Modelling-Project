@@ -4,13 +4,13 @@
 The Goal of get statistical data using API requests. And use the result to build a statistical model to get insite on the relationship between the number of available bikes in a bike station and the average distance between the bike station and restaurants
 
 ## Process
-**Step 1**: Understand the API data using the API documentation and sample results
-**Step 2**: Collected data from CityBikes (https://citybik.es/) by calling its api endpoint and specifying location. The result contained details about the bike station including the longitiude, latitude and number of Bikes in that chosen location 
-**Step 3**: Collected Restaurant data from Foursquare API and Yelp API by passing the latitude and longitude rerieved from the CityBikes Bike stations
-**Step 4**: Joined data retrieved from Foursquare API and Yelp API 
-**step 5**: Explored the data using data Visualisation 
-**step 6**: Created a database from the merged data using sqlite
-**step 7**: created a model to show the relationship between the number of available bikes and the average distance to restaurants in that location 
+1. Understand the API data using the API documentation and sample results
+2. Collected data from CityBikes (https://citybik.es/) by calling its api endpoint and specifying location. The result contained details about the bike station including the longitiude, latitude and number of Bikes in that chosen location 
+3. Collected Restaurant data from Foursquare API and Yelp API by passing the latitude and longitude rerieved from the CityBikes Bike stations
+4. Joined data retrieved from Foursquare API and Yelp API 
+5. Explored the data using data Visualisation 
+6. Created a database from the merged data using sqlite
+7. created a model to show the relationship between the number of available bikes and the average distance to restaurants in that location 
 
 
 
